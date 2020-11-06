@@ -1,0 +1,17 @@
+C:\Users\claud\source\repos\Fivem Launcher\bin\Debug\Fivem Launcher.exe.config
+C:\Users\claud\source\repos\Fivem Launcher\bin\Debug\Fivem Launcher.exe
+C:\Users\claud\source\repos\Fivem Launcher\bin\Debug\Fivem Launcher.pdb
+C:\Users\claud\source\repos\Fivem Launcher\bin\Debug\Fivem Launcher.xml
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.vbprojAssemblyReference.cache
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem_Launcher.Form1.resources
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem_Launcher.Resources.resources
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.vbproj.GenerateResource.cache
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.vbproj.CoreCompileInputs.cache
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.exe
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.xml
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.pdb
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.TrustInfo.xml
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.exe.manifest
+C:\Users\claud\source\repos\Fivem Launcher\bin\Debug\Fivem Launcher.exe.manifest
+C:\Users\claud\source\repos\Fivem Launcher\bin\Debug\Fivem Launcher.application
+C:\Users\claud\source\repos\Fivem Launcher\obj\Debug\Fivem Launcher.application
